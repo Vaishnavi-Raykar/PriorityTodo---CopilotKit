@@ -5,7 +5,7 @@ In this project, I developed a TO-DO List with Prioritization using React for th
 - User can add Task using form with its detail description, date & time and also needs to add priority of task.
 - User also show task completed as well as delete the task.
 ### Method 2 - Using Copilotkit
-- User need to write task name,task details, due date and time as well as priority of task
+- User need to write task name,task details, due date and time as well as priority of task.
 
 ## 2. Name of Issue/Topic
 
@@ -23,18 +23,20 @@ List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
 
 ## 4. GitHub Project Link
 
-### GitHub Repo Link: 
+### [Link-](https://github.com/Vaishnavi-Raykar/PriorityTodo---CopilotKit)
 
 ## 5. Bonus points
 
 - If your app is live, include the link here:
-- [Live app]()
+- [Live app](https://priority-todolist.vercel.app/)
  
-## 6. Screenshot
+## 6. Screenshots
 
-![image](![Todof](https://github.com/user-attachments/assets/6d089f83-8c42-43d5-8d36-badcd653bf0b))
+![Todof](https://github.com/user-attachments/assets/11792935-7987-40b5-ab24-74015af97065)
 
-![image](![todob](https://github.com/user-attachments/assets/662938c9-8981-4ffb-9fdc-5cd08cb8d19f))
+
+![todob](https://github.com/user-attachments/assets/3f1525b0-e63e-4780-9448-2318de9ff36d)
+
 
 
 ## 7. Who Are You?
@@ -45,9 +47,7 @@ Please list your **GitHub** and **Linkedin** handles if you feel comfortable doi
 - [Vaishnavi on linkedin](https://www.linkedin.com/in/vaishnavi-raykar-554827265/)
 
 ## 5 Extra Bonus Points
-Link to any bonus activities you did such as solving GitHub Issues or posting to Twitter, Dev.to, Medium, etc related to your project and CopilotKit.
-- A dev.to blog link - [Link](https://dev.to/sanketshinde/recipe-generator-powered-by-copilotkit-chatbot-2nl0)
-- Tweet link - [Link](https://x.com/sanketshinde04/status/1845898967038521511)
-
+Link to any bonus activities you did such as solving GitHub Issues or posting to Dev.to, Twitter, etc related to your project and CopilotKit.
+- A dev.to blog link - [Link](https://dev.to/vaishnavi_raykar/priority-based-todo-list-4ap6)
 
 #issue 626 : Build a TodoList that helps to add task using CopilotKit's AI interaction capabilities.
