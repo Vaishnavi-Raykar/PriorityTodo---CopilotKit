@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 1. TO-DO List with Prioritization
+In this project, I developed a TO-DO List with Prioritization using React for the frontend, Tailwind CSS for styling, and Shadcn UI for enhanced UI components.
+### Method 1 - Using Form
+- User can add Task using form with its detail description, date & time and also needs to add priority of task.
+- User also show task completed as well as delete the task.
+### Method 2 - Using Copilotkit
+- User need to write task name,task details, due date and time as well as priority of task
 
-First, run the development server:
+## 2. Name of Issue/Topic
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+⭐ 14 - To-Do List with Prioritization (Hacktoberfest Demo) #626
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 3. Technologies Being Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [CopilotKit](https://copilotkit.ai)
+- [ShadCN](https://ui.shadcn.com)
+- Shadcn-UI Component Styling
+- CopilotKit
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 4. GitHub Project Link
 
-## Learn More
+### GitHub Repo Link: 
 
-To learn more about Next.js, take a look at the following resources:
+## 5. Bonus points
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- If your app is live, include the link here:
+- [Live app]()
+ 
+## 6. Screenshot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](![Todof](https://github.com/user-attachments/assets/6d089f83-8c42-43d5-8d36-badcd653bf0b))
 
-## Deploy on Vercel
+![image](![todob](https://github.com/user-attachments/assets/662938c9-8981-4ffb-9fdc-5cd08cb8d19f))
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 7. Who Are You?
+
+Please list your **GitHub** and **Linkedin** handles if you feel comfortable doing so. 
+
+- [Vaishnavi on github](https://github.com/Vaishnavi-Raykar)
+- [Vaishnavi on linkedin](https://www.linkedin.com/in/vaishnavi-raykar-554827265/)
+
+## 5 Extra Bonus Points
+Link to any bonus activities you did such as solving GitHub Issues or posting to Twitter, Dev.to, Medium, etc related to your project and CopilotKit.
+- A dev.to blog link - [Link](https://dev.to/sanketshinde/recipe-generator-powered-by-copilotkit-chatbot-2nl0)
+- Tweet link - [Link](https://x.com/sanketshinde04/status/1845898967038521511)
+
+
+#issue 626 : Build a TodoList that helps to add task using CopilotKit's AI interaction capabilities.
