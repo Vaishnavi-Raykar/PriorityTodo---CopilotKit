@@ -210,7 +210,7 @@ export default function Home() {
   {/* Section for Today's Tasks */}
   <div className="mb-12">
     <h2 className="text-4xl font-semibold text-slate-800 mb-6 border-b-2 border-slate-300 pb-2 transform transition-transform duration-500 hover:rotate-y-6">
-      Today's Tasks
+      Today&apos;s Tasks
     </h2>
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
       {filterTodosByDateAndPriority(0).map((todo) => (
@@ -229,7 +229,7 @@ export default function Home() {
   {/* Section for Tomorrow's Tasks */}
   <div className="mb-12">
     <h2 className="text-4xl font-semibold text-slate-800 mb-6 border-b-2 border-slate-300 pb-2 transform transition-transform duration-500 hover:rotate-y-6">
-      Tomorrow's Tasks
+      Tomorrow&apos;s Tasks
     </h2>
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
       {filterTodosByDateAndPriority(1).map((todo) => (
